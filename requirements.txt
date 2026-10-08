@@ -1,0 +1,9 @@
+openai
+numpy
+python-dotenv
+faiss-cpu
+pypdf
+langchain-openai 
+azure-identity
+langchain
+deepagents
